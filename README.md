@@ -8,7 +8,7 @@ In this hands-on exercise, participant are tasked to train their own image class
 
 #### Slides
 
-The Google slides connected to this talk can be found [here](https://docs.google.com/presentation/d/1Jg9rO_3dXwKzJyDOr2ley8Is5oWKE6D_aJJlJrpw0mw).
+The Google slides connected to this talk can be found [here](https://docs.google.com/presentation/d/1Jg9rO_3dXwKzJyDOr2ley8Is5oWKE6D_aJJlJrpw0mw/present?usp=sharing).
 
 ## Run Hands-On in the Cloud
 
