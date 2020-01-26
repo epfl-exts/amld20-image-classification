@@ -12,7 +12,7 @@ The Google slides connected to this talk can be found [here](https://docs.google
 
 The most straightforward way to run this hands-on exercise is to execute it directly in your browser, i.e. in the cloud.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amdl20-image-classification) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/amdl20-image-classification/master?filepath=AMLD20_image_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld20-image-classification/blob/master/AMLD20_image_classification.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/amdl20-image-classification/master?filepath=AMLD20_image_classification.ipynb)
 [![Generic badge](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://nbviewer.jupyter.org/github/epfl-exts/amdl20-image-classification/blob/master/static/AMLD20_image_classification.ipynb)
 
 Given the computational demands of this hands-on exercise, we recommend to run it directly via **Google's Colab** feature. Should you not be able to do so, you might want to try out **Binder**. If both of these things fail, you can also take a look at the already executed notebook in the **Offline View**.
