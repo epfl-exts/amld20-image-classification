@@ -1,0 +1,11 @@
+google-images-download
+imageio
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn>=0.22
+scipy
+seaborn
+tensorflow-hub
+tqdm>=4.38
