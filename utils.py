@@ -5,7 +5,7 @@
 # Machine Learning Days 2020, Lausanne, Switzerland. (See: https://appliedmldays.org/workshops/epfl-extension-school-workshop-machine-learning-and-data-visualization)
 #
 # For more information about this hands-on exercise, and the full code base,
-# see: https://github.com/epfl-exts/amdl20-image-classification
+# see: https://github.com/epfl-exts/amld20-image-classification
 
 import os
 import time
